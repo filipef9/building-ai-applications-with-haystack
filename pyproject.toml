@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "cohere-haystack>=7.0.0",
+    "colorama>=0.4.6",
     "haystack-ai>=2.22.0",
     "ipykernel>=7.1.0",
     "python-dotenv>=1.2.1",
