@@ -5,9 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "cohere-haystack>=7.0.0",
+    "cohere-haystack==4.0.0",
     "colorama>=0.4.6",
-    "haystack-ai>=2.22.0",
+    "gradio>=6.3.0",
+    "haystack-ai==2.8.1",
+    "haystack-experimental==0.3.0",
     "ipykernel>=7.1.0",
     "python-dotenv>=1.2.1",
     "trafilatura>=2.0.0",
